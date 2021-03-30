@@ -33,11 +33,11 @@ API_BOT="$api"
 
 # put device product/device name/device codename
 VENDOR="xiaomi"
-DEVICE="Redmi S2/Y2"
-CODENAME="ysl"
+DEVICE="Redmi 5 Plus"
+CODENAME="vince"
 
 # Put the url for the device tree on github and branch
-DEVICE_TREE="https://github.com/ItsVixano/android_device_xiaomi_ysl_twrp"
+DEVICE_TREE="https://github.com/starlight5234/android_device_xiaomi_vince_twrp"
 DEVICE_BRANCH="android-9.0"
 
 # Check https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni branches for that

@@ -22,7 +22,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_C_INCLUDES := \
     system/core/base/include \
     system/core/init
-LOCAL_SRC_FILES := init_ysl.cpp
-LOCAL_MODULE := libinit_ysl
+LOCAL_SRC_FILES := init_vince.cpp
+LOCAL_MODULE := libinit_vince
 
 include $(BUILD_STATIC_LIBRARY)

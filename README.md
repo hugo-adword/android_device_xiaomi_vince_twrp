@@ -1,8 +1,6 @@
-# android_device_xiaomi_ysl
+# android_device_xiaomi_vince
 
-For building TWRP for Xiaomi Redmi S2/Y2
-
-Kernel source: [ItsVixano/android_kernel_xiaomi_ysl](https://github.com/ItsVixano/android_kernel_xiaomi_ysl/tree/twrp)
+For building TWRP for Xiaomi Redmi 5 Plus
 
 ===========================================
 

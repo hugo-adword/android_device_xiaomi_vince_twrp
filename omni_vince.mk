@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := ysl
+PRODUCT_RELEASE_NAME := vince
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -31,8 +31,8 @@ PRODUCT_SYSTEM_PROPERTY_BLACKLIST += \
     ro.build.date.utc
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := ysl
-PRODUCT_NAME := omni_ysl
+PRODUCT_DEVICE := vince
+PRODUCT_NAME := omni_vince
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi S2
 PRODUCT_MANUFACTURER := Xiaomi
